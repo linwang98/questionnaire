@@ -1,0 +1,46 @@
+[
+  {
+    "id": 5,
+    "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+    "specificGroupDescriptions": [
+      {
+        "groupOrder": 1,
+        "description": " <pre style=\"color: red\">\n        Hello kitty-1. I am extract description.\n    </pre>"
+      },
+      {
+        "groupOrder": 2,
+        "description": " <pre style=\"color: red\">\n        Hello kitty-2. I am extract description.\n    </pre>"
+      },
+      {
+        "groupOrder": 3,
+        "description": " <pre style=\"color: red\">\n        Hello kitty-3. I am extract description.\n    </pre>"
+      },
+            {
+        "groupOrder": 4,
+        "description": " <pre style=\"color: red\">\n        Hello kitty-4. I am extract description.\n    </pre>"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+    "specificGroupDescriptions": [
+      {
+        "groupOrder": 1,
+        "description": " <pre style=\"color: red\">\n        Hello kitty-1. I am extract description.\n    </pre>"
+      },
+      {
+        "groupOrder": 2,
+        "description": " <pre style=\"color: red\">\n        Hello kitty-2. I am extract description.\n    </pre>"
+      },
+      {
+        "groupOrder": 3,
+        "description": " <pre style=\"color: red\">\n        Hello kitty-3. I am extract description.\n    </pre>"
+      },
+            {
+        "groupOrder": 4,
+        "description": " <pre style=\"color: red\">\n        Hello kitty-4. I am extract description.\n    </pre>"
+      }
+    ]
+  }
+]

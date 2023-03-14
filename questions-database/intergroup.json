@@ -1,0 +1,24 @@
+[
+  {
+    "id": 122,
+    "description": "On a scale from 1 to 5, please rate your agreement with the following statements.",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral  (Neither agree nor disagree)",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "id": 123,
+    "description": "The AI’s suggestions were helpful",
+    "options": [
+      "Strongly disagree",
+      "Disagree",
+      "Neutral  (Neither agree nor disagree)",
+      "Agree",
+      "Strongly Agree"
+    ]
+  }
+]

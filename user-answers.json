@@ -1,0 +1,344 @@
+[
+  {
+    "answers": {
+      "b124d90c-6b92-4979-b4c4-d56c3033fe05": "Disagree",
+      "b31f64b8-1eca-4973-89bd-c447ec86dd04": "Agree",
+      "a29df6e8-55f2-4fc3-8f35-7fdef02e2f76": "Neither agree nor disagree",
+      "b1cf7517-75d1-4395-b16a-1ada8e8d6717": "Strongly Agree",
+      "e6526f0d-6226-4f29-a9b8-e9619d99e032": "Neither agree nor disagree",
+      "ce0256aa-5eab-4673-b95e-87b58096508e": "Disagree",
+      "69cab3f7-1659-46fa-a255-e214657257fa": "Agree",
+      "2f97fb8b-b226-4c76-a22b-4d8ecac761e9": "Neither agree nor disagree",
+      "c4523f6d-6372-4af3-b1e7-f5dc4b2d7cff": "Disagree",
+      "77402576-5034-4645-b757-9b26f1b7138d": "Strongly Agree",
+      "a5f0dc40-3ad3-4312-bcf9-a16da1f1bf01": "Strongly disagree",
+      "75fc08f4-cf8f-4c2a-bbe7-4591c5b29e04": "Neither agree nor disagree"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "description": "<h3 style=\"color: gray\">This is healthy test: </h3>\n    <p>\n\n        I had the same issue with rendering the textarea input from from a wysiwyg editor saved as html in my database. The browser will not render it but displayed the html as text. After hours of searching, I found out\n        <a href=\"www.google.com\">Look more</a>\n    </p>\n    <img width=\"200\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "order": 1,
+        "uid": "b124d90c-6b92-4979-b4c4-d56c3033fe05"
+      },
+      {
+        "id": 6,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "order": 2,
+        "uid": "b31f64b8-1eca-4973-89bd-c447ec86dd04"
+      },
+      {
+        "id": 4,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "order": 3,
+        "uid": "a29df6e8-55f2-4fc3-8f35-7fdef02e2f76"
+      },
+      {
+        "id": 8,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "order": 4,
+        "uid": "b1cf7517-75d1-4395-b16a-1ada8e8d6717"
+      },
+      {
+        "id": 122,
+        "description": "On a scale from 1 to 5, please rate your agreement with the following statements.",
+        "options": [
+          "Strongly disagree",
+          "Disagree",
+          "Neutral  (Neither agree nor disagree)",
+          "Agree",
+          "Strongly Agree"
+        ],
+        "uid": "e6526f0d-6226-4f29-a9b8-e9619d99e032"
+      },
+      {
+        "id": 123,
+        "description": "The AI’s suggestions were helpful",
+        "options": [
+          "Strongly disagree",
+          "Disagree",
+          "Neutral  (Neither agree nor disagree)",
+          "Agree",
+          "Strongly Agree"
+        ],
+        "uid": "ce0256aa-5eab-4673-b95e-87b58096508e"
+      },
+      {
+        "id": 22,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "order": 5,
+        "uid": "69cab3f7-1659-46fa-a255-e214657257fa"
+      },
+      {
+        "id": 5,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "order": 6,
+        "uid": "2f97fb8b-b226-4c76-a22b-4d8ecac761e9"
+      },
+      {
+        "id": 3,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "order": 7,
+        "uid": "c4523f6d-6372-4af3-b1e7-f5dc4b2d7cff"
+      },
+      {
+        "id": 18,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "order": 8,
+        "uid": "77402576-5034-4645-b757-9b26f1b7138d"
+      },
+      {
+        "id": 122,
+        "description": "On a scale from 1 to 5, please rate your agreement with the following statements.",
+        "options": [
+          "Strongly disagree",
+          "Disagree",
+          "Neutral  (Neither agree nor disagree)",
+          "Agree",
+          "Strongly Agree"
+        ],
+        "uid": "a5f0dc40-3ad3-4312-bcf9-a16da1f1bf01"
+      },
+      {
+        "id": 123,
+        "description": "The AI’s suggestions were helpful",
+        "options": [
+          "Strongly disagree",
+          "Disagree",
+          "Neutral  (Neither agree nor disagree)",
+          "Agree",
+          "Strongly Agree"
+        ],
+        "uid": "75fc08f4-cf8f-4c2a-bbe7-4591c5b29e04"
+      }
+    ],
+    "time": 19
+  },
+  {
+    "answers": {
+      "275763ee-dfe3-4e51-9417-39ab760b33e2": "Strongly disagree",
+      "a4a86f87-7b91-44c9-aad0-c383fd061106": "Agree",
+      "e8a853f3-936c-4f8f-a497-451c6cf5398d": "Neither agree nor disagree",
+      "fde6cb42-278a-4f94-8211-ca6fc9c78caf": "Strongly Agree",
+      "9ad2f016-c6d5-4335-bac8-8c670630db99": "Disagree",
+      "7348d826-c2c1-4188-8c1c-f724fb48d047": "Agree",
+      "7a6f71ab-3516-4793-9da1-ce6d755fcd0a": "Neither agree nor disagree",
+      "1409c3d4-27f1-4bf7-ba92-68af38c1a7e3": "Disagree",
+      "b718a02c-79df-4f5b-bad0-ebb11d7f7353": "Agree",
+      "738d9920-767b-4774-88c4-2d272f531876": "Strongly disagree",
+      "0af2f474-0750-497c-9b42-3579b0308f46": "Strongly Agree",
+      "4e0514cd-dfdc-4502-bdc6-8a95d7a716a1": "Strongly disagree"
+    },
+    "questions": [
+      {
+        "id": 2,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "specificGroupDescriptions": [
+          {
+            "groupOrder": 1,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-1. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 2,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-2. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 3,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-3. I am extract description.\n    </pre>"
+          }
+        ],
+        "order": 1,
+        "uid": "275763ee-dfe3-4e51-9417-39ab760b33e2"
+      },
+      {
+        "id": 6,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "specificGroupDescriptions": [
+          {
+            "groupOrder": 1,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-1. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 2,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-2. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 3,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-3. I am extract description.\n    </pre>"
+          }
+        ],
+        "order": 2,
+        "uid": "a4a86f87-7b91-44c9-aad0-c383fd061106"
+      },
+      {
+        "id": 4,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "specificGroupDescriptions": [
+          {
+            "groupOrder": 1,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-1. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 2,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-2. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 3,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-3. I am extract description.\n    </pre>"
+          }
+        ],
+        "order": 3,
+        "uid": "e8a853f3-936c-4f8f-a497-451c6cf5398d"
+      },
+      {
+        "id": 7,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "specificGroupDescriptions": [
+          {
+            "groupOrder": 1,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-1. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 2,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-2. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 3,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-3. I am extract description.\n    </pre>"
+          }
+        ],
+        "order": 4,
+        "uid": "fde6cb42-278a-4f94-8211-ca6fc9c78caf"
+      },
+      {
+        "id": 122,
+        "description": "On a scale from 1 to 5, please rate your agreement with the following statements.",
+        "options": [
+          "Strongly disagree",
+          "Disagree",
+          "Neutral  (Neither agree nor disagree)",
+          "Agree",
+          "Strongly Agree"
+        ],
+        "uid": "9ad2f016-c6d5-4335-bac8-8c670630db99"
+      },
+      {
+        "id": 123,
+        "description": "The AI’s suggestions were helpful",
+        "options": [
+          "Strongly disagree",
+          "Disagree",
+          "Neutral  (Neither agree nor disagree)",
+          "Agree",
+          "Strongly Agree"
+        ],
+        "uid": "7348d826-c2c1-4188-8c1c-f724fb48d047"
+      },
+      {
+        "id": 1,
+        "description": "<h3 style=\"color: gray\">This is healthy test: </h3>\n    <p>\n\n        I had the same issue with rendering the textarea input from from a wysiwyg editor saved as html in my database. The browser will not render it but displayed the html as text. After hours of searching, I found out\n        <a href=\"www.google.com\">Look more</a>\n    </p>\n    <img width=\"200\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "specificGroupDescriptions": [
+          {
+            "groupOrder": 1,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-1. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 2,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-2. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 3,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-3. I am extract description.\n    </pre>"
+          }
+        ],
+        "order": 5,
+        "uid": "7a6f71ab-3516-4793-9da1-ce6d755fcd0a"
+      },
+      {
+        "id": 5,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "specificGroupDescriptions": [
+          {
+            "groupOrder": 1,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-1. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 2,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-2. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 3,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-3. I am extract description.\n    </pre>"
+          }
+        ],
+        "order": 6,
+        "uid": "1409c3d4-27f1-4bf7-ba92-68af38c1a7e3"
+      },
+      {
+        "id": 3,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "specificGroupDescriptions": [
+          {
+            "groupOrder": 1,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-1. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 2,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-2. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 3,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-3. I am extract description.\n    </pre>"
+          }
+        ],
+        "order": 7,
+        "uid": "b718a02c-79df-4f5b-bad0-ebb11d7f7353"
+      },
+      {
+        "id": 18,
+        "description": "<h5>\n        Ms Conway, who bought $120 worth of tickets to enter the draw, was overjoyed when her name was read out as the winner of the modified Widebody Y62 Nissan Patrol and all associated on-road costs.\n        <a target=\"_blank\" href=\"https://www.news.com.au/national/heartbroken-dark-twist-after-woman-wins-dream-car/news-story/635f412501133af43a3b422153e8a10b\">Look more</a>\n\n\n    </h5>\n    <img width=\"400\" src=\"https://img.freepik.com/free-photo/fried-chicken-breast-cheese-tomato-french-fries-ketchup-green-salad-side-view-jpg_141793-1782.jpg?w=1060&t=st=1675911558~exp=1675912158~hmac=c89b6b082987d0a66e3812ca100c57f4c71eb684a34a7e21d9150ccbf5f68e5a\"/>\n",
+        "specificGroupDescriptions": [
+          {
+            "groupOrder": 1,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-1. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 2,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-2. I am extract description.\n    </pre>"
+          },
+          {
+            "groupOrder": 3,
+            "description": " <pre style=\"color: red\">\n        Hello kitty-3. I am extract description.\n    </pre>"
+          }
+        ],
+        "order": 8,
+        "uid": "738d9920-767b-4774-88c4-2d272f531876"
+      },
+      {
+        "id": 122,
+        "description": "On a scale from 1 to 5, please rate your agreement with the following statements.",
+        "options": [
+          "Strongly disagree",
+          "Disagree",
+          "Neutral  (Neither agree nor disagree)",
+          "Agree",
+          "Strongly Agree"
+        ],
+        "uid": "0af2f474-0750-497c-9b42-3579b0308f46"
+      },
+      {
+        "id": 123,
+        "description": "The AI’s suggestions were helpful",
+        "options": [
+          "Strongly disagree",
+          "Disagree",
+          "Neutral  (Neither agree nor disagree)",
+          "Agree",
+          "Strongly Agree"
+        ],
+        "uid": "4e0514cd-dfdc-4502-bdc6-8a95d7a716a1"
+      }
+    ],
+    "time": 18
+  }
+]

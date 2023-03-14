@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Survey Result</title>
+    <link rel="stylesheet" href="/bootstrap.min.css"/>
+</head>
+<body>
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-body">
+            <h3 class="card-title">Basic information</h3>
+            <p>
+                Age: <%=information.age%>
+            </p>
+            <p>
+                Experience: <%=information.experience%>
+            </p>
+            <p>
+                Education: <%=information.education%>
+            </p>
+            <p>
+                Familiarity: <%=information.familiarity%>
+            </p>
+        </div>
+    </div>
+
+    <div class="card mt-3">
+        <div class="card-body">
+            <h3 class="card-title">End survey</h3>
+            <p>
+                Email: <%=email || 'N/A'%>
+            </p>
+            <p>
+                Feedback: <%=feedback || 'N/A'%>
+            </p>
+            <p>
+                Model: <%=model || 'N/A'%>
+            </p>
+        </div>
+    </div>
+    <table class="table m-auto mt-5">
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Question</th>
+            <th>Time</th>
+            <th>Answer</th>
+        </tr>
+        </thead>
+        <tbody>
+        <% result.forEach(function (item, index) { %>
+        <tr>
+            <td>
+                <%=index + 1%>
+            </td>
+            <td>
+                <%-item.questionText%>
+            </td>
+            <td>
+                <%= userTimes[item.uid] %> s
+            </td>
+            <td>
+                <%=item.answerText%>
+            </td>
+        </tr>
+        <% }) %>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>
